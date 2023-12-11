@@ -1,5 +1,5 @@
 # Table of Contents
-1. [Experiment 1: Can ChatGPT Vision Predict The Best Ad ](#experiment1)
+1. [Experiment 1: Can ChatGPT Vision Predict the Best Ad ](#experiment1)
 
    Results: 89-97% alignment with customer identity. 
 
@@ -21,7 +21,7 @@
 
 
 <a id="experiment1"></a>
-# Experiment  1: Can ChatGPT Vision Predict The Best Ad 
+# Experiment  1: Can ChatGPT Vision Predict the Best Ad 
 
 ## Inspiration
 https://cordial.com/clients/adore_me/
