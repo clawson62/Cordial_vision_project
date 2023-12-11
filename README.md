@@ -15,6 +15,8 @@
 6. [Reference Code](#code)
 
 
+##### This is all unique work created for Cordial and not shared with any other organization.
+
 ---
 
 
@@ -23,6 +25,8 @@
 
 ## Inspiration
 https://cordial.com/clients/adore_me/
+
+From the blog post above, I read how Adore Me customized ads for specific body types and product filters. This made me think about using ChatGPT to predict consumer behavior when viewing ads and instructing ChatGPT to behave like certain consumer identity profiles.
 
 ### Setup
 I created two ads below targeting different consumer identities. 
@@ -75,6 +79,11 @@ Respond with either "Left" if you prefer the ad on the left or respond with "Rig
 <a id="experiment2"></a>
 # Experiment 2: Can ChatGPT Vision Predict Checkout Behavior 
 
+## Inspiration: 
+
+https://cordial.com/clients/eddie-bauer/
+
+From the blog post above, I read how Eddie Bauer wanted to emphasize their Adventure Rewards program through personalization. Below is work detailing how ChatGPT can be instructed to behave like certain consumer identity profiles and predict the best UI, newsletter, email ad, or other image design.
 
 ### Setup
 I tested the difference between two checkout user interfaces (UI) and two consumer identities to see if ChatGPT would prefer joining the Adventure Rewards
@@ -84,9 +93,8 @@ One UI has a more highlighted Adventure Rewards option.
 One consumer identity specified the purchase_drivers of the consumer were "saving money", "deals", and "rewards".
 
 <div style="text-align: center;">
-
-<img src="https://raw.githubusercontent.com/clawson62/Cordial_vision_project/main/eddie_bauer_one_green_button.jpg" style="width:350px; display:inline;" />
-<img src="https://raw.githubusercontent.com/clawson62/Cordial_vision_project/main/eddie_bauer_two_green_buttons.jpg" style="width:350px; display:inline;" />
+   <img src="https://raw.githubusercontent.com/clawson62/Cordial_vision_project/main/eddie_bauer_one_green_button.jpg" style="width:250px; display:inline;" />
+   <img src="https://raw.githubusercontent.com/clawson62/Cordial_vision_project/main/eddie_bauer_two_green_buttons.jpg" style="width:250px; display:inline;" />
 </div>
 
 
