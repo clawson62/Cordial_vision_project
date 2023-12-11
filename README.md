@@ -5,7 +5,7 @@
 
 3. [Experiment 2: Can ChatGPT Vision Predict Checkout Behavior](#experiment2)
 
-   Results: UI effected behavior by 7% and customer identity effected behavior by 91-98%.
+   Results: UI affected behavior by 7% and customer identity effected behavior by 91-98%.
 
 5. [Experiment 3:  Mimic Customer Journey For Lead Generation ](#experiment3)
 
